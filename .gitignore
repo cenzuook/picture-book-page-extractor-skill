@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Generated extraction output
+output/
+outputs/
+review/
+pages/
+manifest.json
+contact-sheet.png
+
+# Media and large generated assets
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+*.zip
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

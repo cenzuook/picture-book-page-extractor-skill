@@ -1,0 +1,4 @@
+interface:
+  display_name: "绘本视频逐页提取"
+  short_description: "从绘本视频智能识别翻页、清理背景并生成扫描感高清页面"
+  default_prompt: "Use $extract-picture-book-pages to analyze this picture-book video, extract every page in order, remove unrelated content, and preserve all text exactly."
